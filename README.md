@@ -4,7 +4,7 @@ Algorithm: Identify Weak Students
  Set n = 10
  For i = 1 to n
     Read score
-     If score < 50 then
+     If score <= 50 then
          status = "Weak"
      Else
          status = "Strong"
