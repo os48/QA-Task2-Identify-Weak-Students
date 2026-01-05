@@ -1,7 +1,7 @@
 Algorithm: Identify Weak Students
 
  Start
- Set n = 10
+ Set n = 5
  For i = 1 to n
     Read score
      If score < 50 then
